@@ -1,0 +1,206 @@
+@import "../../../assets/static/less/mixins";
+
+.loginbtns {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  background: url(../../../assets/static/img/loginbg.jpg) no-repeat center;
+  ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #bdbfcc !important;
+    font-size: 12px;
+  }
+
+  :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #bdbfcc !important;
+    font-size: 12px;
+  }
+
+  ::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #bdbfcc !important;
+    font-size: 12px;
+  }
+
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #bdbfcc !important;
+    font-size: 12px;
+  }
+  .loginarea {
+    width: 1200px;
+    height: 500px;
+    background: url('../../../assets/static/img/loginarea.jpg') no-repeat center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    .loginleft {
+      float: left;
+      width: 600px;
+      height: 500px;
+      .download {
+        font-size: 48px;
+        color: #fff;
+        font-weight: 800;
+        margin: 55px auto 35px;
+        text-align: center;
+      }
+      .qrcode {
+        width: 240px;
+        height: 270px;
+        padding: 20px;
+        background: rgba(255, 255, 255, .2);
+        border-radius: 8px;
+        margin: 0 auto;
+        .qrarea {
+          width: 200px;
+          height: 200px;
+          background: url("../../../assets/static/img/codeImg.png") no-repeat center;
+        }
+        .down {
+          color: #fff;
+          text-align: center;
+          margin: 0 auto;
+          height: 40px;
+          line-height: 40px;
+          font-size: 18px;
+        }
+      }
+    }
+    .loginright {
+      float: left;
+      width: 600px;
+      height: 500px;
+      .welcome {
+        font-size: 48px;
+        color: #fff;
+        text-align: center;
+        margin: 55px auto 0;
+        font-weight: 800;
+      }
+      .loginform {
+        width: 370px;
+        height: auto;
+        margin: 56px auto 0;
+        .registers, .logintoweb {
+          border: 0px !important;
+        }
+        .el-form-item {
+          border-bottom: 1px solid rgba(255, 255, 255, .2);
+          .el-form-item__content {
+            position: relative;
+            .el-input__icon {
+              display: none;
+            }
+            .usericon, .passicon, .authcode {
+              width: 36px;
+              height: 36px;
+              background: url("../../../assets/static/img/usericon.png") no-repeat center;
+              display: block;
+              float: left;
+              box-sizing: border-box;
+              padding-right: 5px;
+              padding-top: 5px;
+            }
+            .usericon {
+              background: url("../../../assets/static/img/usericon.png") no-repeat center;
+            }
+            .passicon {
+              background: url("../../../assets/static/img/passicon.png") no-repeat center;
+            }
+            .authcode {
+              background: url("../../../assets/static/img/qrcodeicon.png") no-repeat center;
+            }
+            b {
+              width: 1px;
+              height: 18px;
+              display: block;
+              float: left;
+              background: #5f6069;
+              margin-top: 9px;
+            }
+
+            .el-input {
+              background: rgba(255, 255, 255, 0);
+              width: 300px;
+              float: left;
+              .el-input__inner {
+                background: rgba(255, 255, 255, 0);
+                border: 0;
+                color: #fff;
+              }
+            }
+            span {
+              position: absolute;
+              right: 0;
+              z-index: 11;
+              cursor: pointer;
+            }
+          }
+          .el-form-item__error {
+            text-indent: 47px;
+            width: 370px;
+            margin-top: 2px;
+            a {
+              color: #fc5457;
+              text-decoration: underline;
+              margin-left: 2px;
+            }
+          }
+
+        }
+        .loginbottom {
+          height: 36px;
+          line-height: 36px;
+          width: 370px;
+          color: #bdbfcc;
+          font-size: 12px;
+          margin-bottom: 14px;
+          margin-top: -8px;
+          span, p {
+            float: left;
+            display: block;
+            width: 85px;
+            height: 36px;
+            cursor: pointer;
+          }
+          span {
+            text-align: left;
+            &:hover {
+              color: @mainC;
+              text-decoration: underline;
+            }
+          }
+          p {
+            text-align: right;
+            line-height: 36px;
+            float: right;
+            &:hover {
+              color: @mainC;
+              text-decoration: underline;
+            }
+          }
+
+        }
+        .loginbtn {
+          width: 370px;
+          height: 40px;
+          background: #fff;
+          font-size: 16px;
+          text-align: center;
+          line-height: 40px;
+          color: #212330;
+          border-radius: 20px;
+          cursor: pointer;
+          transition: all .3s;
+          &:hover {
+            background-color: @mainC;
+            color: @fff;
+          }
+        }
+      }
+    }
+  }
+}

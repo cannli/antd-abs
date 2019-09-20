@@ -1,0 +1,349 @@
+@import "../../static/less/mixins";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  font-weight: normal;
+  font-family: Microsoft YaHei, Helvetica Neue, Helvetica, STHeiTi, "sans-serif";
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+}
+
+//版心
+.w1200 {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+//左浮动
+.fl {
+  float: left !important;
+}
+
+//右浮动
+.fr {
+  float: right !important;
+}
+
+//清除浮动
+.clearfix {
+  zoom: 1;
+  &:after {
+    content: '';
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+  }
+}
+
+//背景图覆盖
+.bgcover {
+  background-size: cover;
+}
+
+//后台内容区
+.masterContent {
+  position: absolute;
+  left: 160px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  //min-height: 800px;
+  //overflow-y: scroll;
+  background-color: #f0f2fa;
+  //overflow: hidden;
+  min-width: 1146px;
+
+}
+
+//修改表单placeholder字体颜色
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: #415567 !important;
+  font-size: 12px;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #415567 !important;
+  font-size: 12px;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #415567 !important;
+  font-size: 12px;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #415567 !important;
+  font-size: 12px;
+}
+
+//面包屑导航
+.el-breadcrumb {
+  width: 100%;
+  height: 48px;
+  background-color: #fff;
+  box-shadow: 0px 2px 5px 0px rgba(11, 2, 5, 0.08);
+  line-height: 48px;
+  padding-left: 30px;
+  color: #454e63;
+  margin-bottom: 20px;
+}
+
+.el-breadcrumb__item {
+  cursor: pointer;
+}
+
+.el-breadcrumb__item__inner {
+  cursor: pointer !important;
+}
+
+//后台内容的左右边距（参考下级代理页面）
+.masterConpadding {
+  width: 100%;
+  padding: 0 30px;
+  min-width: 1146px;
+  position: absolute;
+  top: 68px;
+  bottom: 30px;
+  overflow-y: auto;
+}
+
+//后台内容页白色背景，黑色阴影
+.shashow {
+  background-color: #fff;
+  box-shadow: 0px 2px 5px 0px rgba(11, 2, 5, 0.08);
+  border-radius: 4px;
+}
+
+//修改面包屑导航的字体和颜色
+.el-breadcrumb__item__inner, .el-breadcrumb__separator {
+  font-size: 14px !important;
+  color: rgb(69, 78, 99) !important;
+}
+
+//分页样式设置
+.btn-prev {
+  i {
+    &:before {
+      content: '上一页';
+      color: #454e63;
+    }
+  }
+
+}
+
+.btn-next {
+  i {
+    &:before {
+      content: '下一页';
+      color: #454e63;
+    }
+
+  }
+}
+
+//紫色小竖块区域标题栏
+.com-title {
+  line-height: 50px;
+  border-bottom: 1px solid #edf1f7;
+  padding: 0 20px;
+  color: #454e63;
+  font-size: 16px;
+  position: relative;
+  i {
+    width: 6px;
+    height: 16px;
+    display: inline-block;
+    background-color: @mainC;
+    .rounded(6px);
+    position: relative;
+    top: 3px;
+    margin-right: 6px;
+  }
+  a {
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: url("../../static/img/icon-arrow-right.png") no-repeat center;
+    cursor: pointer;
+  }
+}
+
+//input输入框获取焦点，select下拉选中
+.el-input__inner:focus, .el-textarea__inner:focus {
+  border-color: #008cee;
+}
+
+.el-input__inner {
+  line-height: 36px;
+}
+
+.el-select .el-input__inner:focus {
+  border-color: #008cee;
+}
+
+.el-select-dropdown.is-multiple .el-select-dropdown__item.selected.hover, .el-select-dropdown__item.hover, .el-select-dropdown__item:hover {
+  background: #e5eff7 !important;
+}
+
+.el-select-dropdown__item.selected {
+  background-color: #008cee !important;
+}
+.el-table th>.cell {
+  text-align: center!important;
+}
+//游戏详情介绍
+.gameDetailsCom {
+  background: #ffffff;
+  margin-bottom: 20px;
+  padding: 30px;
+  img {
+    border-radius: 24px;
+    width: 160px;
+    height: 160px;
+    display: block;
+  }
+  .topCon {
+    margin: 30px 35px 0 20px;
+    .title {
+      font-size: 24px;
+      color: rgb(69, 78, 99);
+      margin-bottom: 30px;
+    }
+    i {
+      display: inline-block;
+      font-style: normal;
+      margin-right: 30px;
+      margin-bottom: 10px;
+    }
+  }
+  .el-button--text {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+  }
+  .expand {
+    margin-top: 20px;
+    border-radius: 2px;
+    background-color: @mainC;
+    width: 100px;
+    height: 36px;
+    color: #fff;
+    text-align: center;
+    line-height: 36px;
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+    &:hover {
+      .opacity(.8);
+    }
+  }
+}
+
+//问号样式
+.showque {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 16px;
+  margin-top: -3px;
+  vertical-align: middle;
+  color: #454e63;
+}
+
+//鼠标移动问号显示框的样式
+.el-tooltip__popper {
+  max-width: 200px;
+  color: #454e63;
+  line-height: 20px;
+  box-shadow: 0px 4px 5px 0px rgba(11, 2, 5, 0.08);
+}
+
+//弹窗头部样式
+.el-dialog__header {
+  padding: 0;
+  .el-dialog__title {
+    display: block;
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    border-bottom: 1px solid #edf1f7;
+    font-size: 24px;
+    color: rgb(69, 78, 99);
+  }
+  .el-dialog__close {
+    display: none;
+  }
+}
+.el-dialog {
+  -webkit-transform: translateX(-50%);
+}
+
+//设置echarts图标样式
+#echarts {
+  width: 95%;
+  height: 500px;
+  margin: 0 auto;
+}
+
+//数据列表
+.list {
+  padding: 20px 20px 30px;
+  .cell {
+    text-align: center;
+  }
+  tbody tr:nth-child(2n) {
+    background: #fafbff;
+  }
+  .el-table th {
+    background: #e5eff7;
+    color: #454e63;
+    text-align: center;
+    div {
+      background: #e5eff7;
+      font-weight: normal;
+      font-size: 14px;
+    }
+  }
+}
+
+//提示边框颜色
+.el-tooltip__popper.is-light {
+  border: 1px solid #bcc4d7;
+}
+
+.el-dialog__headerbtn {
+  width: 80px !important;
+  height: 80px !important;
+  position: relative !important;
+  z-index: 100 !important;
+  top: -80px !important;
+}
+
+.el-dialog__close {
+  position: static !important;
+}
+
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring,
+button:-moz-focusring {
+  outline: none;
+}
+.myincome .el-dialog__headerbtn {
+  right: 0!important;
+}
+.recharge-info .el-dialog__headerbtn {
+  right: 0!important;
+}
+@-moz-document url-prefix() {
+  .getCodes {
+    top: 2px!important;
+  }
+}

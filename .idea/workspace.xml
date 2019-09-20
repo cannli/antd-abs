@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba339413-ebdc-4cca-84f8-571311c5ab48" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/fonts/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/fonts/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/fonts/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/aboutUsB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/aboutus.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/activeBanner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/activeBanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ad1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ad2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ad3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ad4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/addCard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/advantage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/agentBlue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/agentRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/agentRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/andriod-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/appicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bankicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/banner-app.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/banner-app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bannerImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bg-jzys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bg-luopan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bg-tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/bg-yj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/codeImg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/companyProfile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/contact1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/contact2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/contact3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/contactUs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/default2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/duoyuan-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/dz-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/dz-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/dz-partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/dz-task.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/enjoy1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/enjoy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/enjoy3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/enjoy4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/enjoy5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ermaBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/font-hz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/gongshang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growup_step1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growup_step2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growup_step3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growup_step4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growup_step5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growupstep3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/growupstep3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/hitYiZLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-android-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-android2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-chooseBank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-code-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-computer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-customer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-customer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-data1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-data2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-data3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-data4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-data5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-del-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi-hover1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi-hover2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi-hover3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-dingzhi3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-download-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-extend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-fn1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-fn2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-fn3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-fn4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-fn5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-h5-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-h5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-hx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-idea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-ios-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-ios.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-ios2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-isMy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-noActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-noNotice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-noRed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-notice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-rank1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-rank2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-rank3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-recharge-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-recharge-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-redpk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-register-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-register-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-registerForMobile-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-sm-android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-sm-ios.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-tel2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-userIdea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-yj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/icon-yun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/inco-help-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/inco-problem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/inco-staff-service.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/incom-step2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBan1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBan2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBan3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBan4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBan5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexBanner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexSprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/indexhas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ios-qd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/items-inner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/items-outer1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/items-outer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/items-outer3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jianhang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jianshe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jingptj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobIcon6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/jobs1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/kefuBnnaer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/loginarea.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/loginbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-gongshang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-guangda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-guangfa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-huaxia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-jianshe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-jiaotong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-minsheng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-nongye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-pingan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-pufa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-xingye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-youzheng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-zhaoshang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-zhongguo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo-zhongxin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logo5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/logos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/luopan-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/luopan-data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/map1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/map2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mobile-title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mobile1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mobile2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mobile3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mobile4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mod-data-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mod-data-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/mod-data-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/moreJobs1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/moreLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/nonghang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/passicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/planBuild.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/planSprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/planTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/planban1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/planbann.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/product_step.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/product_step.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/product_step2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/product_step3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/qrcodeicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/rechargeBanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/redStep1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/redSure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/register-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/servicePic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/shaomiao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/shenz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/short-icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-agent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-manager.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-member.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smBanner-tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smbanner-hx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smbanner-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/smbanner-yj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tese-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tese-mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tese-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/title-datatb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/title-partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/title-tese.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/title-tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tongbu1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tongbu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/tongbu3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ts-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ts-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ts-plus-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ts-plus-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/ts-title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/usericon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/weHere.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/websitebg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/websiteloge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechatB1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechatB2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechatB3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechatBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechatTitle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechattitlePic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wechattitlePic2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wish-wh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/wish.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/yj-partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/yj-wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/yj-zhi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/yongjin-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/zhaoshang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/zhifu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config-overrides.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/paths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/pnpTs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/fonts/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/img/概况雪碧图.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/js/echarts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/js/jquery-1.7.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/js/share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/less/animate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/less/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/static/less/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/style/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/axios/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/logo/Logo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/logo/logo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/menuConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/index/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/enter/enter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/enter/enter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/header/login-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/header/login-header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/home/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/home/home.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/login/login.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/project/project.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contairer/views.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layout/footer/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layout/header/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layout/home/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/layout/sider/sider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.38390663">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/contairer/login/login.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/contairer/login/home/home.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1501">
+                  <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                    <marker date="1568971432605" expanded="false" signature="2677:2727" ph="&lt;div/&gt;" />
+                    <marker date="1568971432605" expanded="false" signature="2737:3148" ph="&lt;div/&gt;" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.less" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/contairer/login/home/home.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="36" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="247">
+                  <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="enter.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/contairer/login/enter/enter.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="355">
+                  <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+                  <folding>
+                    <element signature="e#0#25#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="enter.less" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/contairer/login/enter/enter.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#4004#4757#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>babel-eslint</find>
+      <find>scripts</find>
+      <find>react-app-rewired</find>
+      <find>react-scripts</find>
+      <find>300</find>
+      <find>3000</find>
+      <find>2018</find>
+      <find>ant-design</find>
+      <find>pro-layout</find>
+      <find>port_code</find>
+      <find>store</find>
+      <find>setUserInfo</find>
+      <find>server_base_url</find>
+      <find>interceptors</find>
+      <find>router</find>
+      <find>home-content</find>
+      <find>jquery</find>
+      <find>class=</find>
+      <find>style</find>
+      <find>banCon</find>
+      <find>icon-tg</find>
+      <find>luopan-data</find>
+      <find>icon-yj2</find>
+      <find>isPassMsg</find>
+      <find>../../</find>
+      <find>loginbtn</find>
+      <find>onClick</find>
+      <find>loginbottom</find>
+      <find>el-form-item</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>className=</replace>
+      <replace>../../../</replace>
+      <replace>onBlur</replace>
+      <replace>../../../assets/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\antd-ABS\antd-abs</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/config/modules.js" />
+        <option value="$PROJECT_DIR$/config/webpackDevServer.config.js" />
+        <option value="$PROJECT_DIR$/config-overrides.js" />
+        <option value="$PROJECT_DIR$/src/components/logo/logo.css" />
+        <option value="$PROJECT_DIR$/src/components/logo/Logo.js" />
+        <option value="$PROJECT_DIR$/src/layout/footer/footer.js" />
+        <option value="$PROJECT_DIR$/src/confing/menuConfig.js" />
+        <option value="$PROJECT_DIR$/src/components/logo/logo.less" />
+        <option value="$PROJECT_DIR$/src/axios/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/layout/home/home.js" />
+        <option value="$PROJECT_DIR$/src/contairer/project/project.js" />
+        <option value="$PROJECT_DIR$/src/layout/sider/sider.js" />
+        <option value="$PROJECT_DIR$/src/layout/header/header.js" />
+        <option value="$PROJECT_DIR$/src/contairer/index/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/style/layout.less" />
+        <option value="$PROJECT_DIR$/src/contairer/login/header/login-header.less" />
+        <option value="$PROJECT_DIR$/src/contairer/views.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/utils/util.js" />
+        <option value="$PROJECT_DIR$/src/contairer/login/header/login-header.js" />
+        <option value="$PROJECT_DIR$/src/contairer/login/login.less" />
+        <option value="$PROJECT_DIR$/src/contairer/login/home/home.less" />
+        <option value="$PROJECT_DIR$/src/contairer/login/home/home.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/contairer/enter/enter.js" />
+        <option value="$PROJECT_DIR$/src/contairer/enter/enter.less" />
+        <option value="$PROJECT_DIR$/src/contairer/login/login.js" />
+        <option value="$PROJECT_DIR$/src/contairer/login/enter/enter.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="contairer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="contairer" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="antd-abs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="antd-abs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="contairer" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="enter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="D:\antd-ABS\antd-abs\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="standardjs.codestyle.accepted" value="true" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\antd-ABS\antd-abs\src\contairer\login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\antd-ABS\antd-abs\src\contairer\login\home" />
+      <recent name="D:\antd-ABS\antd-abs\src\assets" />
+      <recent name="D:\antd-ABS\antd-abs" />
+      <recent name="D:\antd-ABS\antd-abs\src\components\logo" />
+      <recent name="D:\antd-ABS\antd-abs\src\assets\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba339413-ebdc-4cca-84f8-571311c5ab48" name="Default" comment="" />
+      <created>1566201814284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566201814284</updated>
+      <workItem from="1566201815675" duration="3800000" />
+      <workItem from="1566205661455" duration="26714000" />
+      <workItem from="1566351707370" duration="9170000" />
+      <workItem from="1568685564230" duration="36713000" />
+      <workItem from="1568969638749" duration="6367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14225501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4423913" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/pnpTs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="75" column="45" lean-forward="true" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="215" column="63" lean-forward="false" selection-start-line="215" selection-start-column="63" selection-end-line="215" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-overrides.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/footer/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/menuConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="53" column="4" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/logo.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cannliProject/CZY-PT/src/utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cannliProject/react-cannli-app/src/config/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cannliProject/CZY-PT/src/assets/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cannliProject/CZY-PT/src/common/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/cannliProject/CZY-PT/src/common/fetch/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/axios/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#53#78#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/sider/sider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/js/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layout/header/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/growupstep3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/logo/Logo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/views.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/style/layout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexhas.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBanner1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBan5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBan4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBan3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBan2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/indexBan1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/items-outer3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/items-outer2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/items-outer1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/less/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="265" column="1" lean-forward="false" selection-start-line="265" selection-start-column="1" selection-end-line="265" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/project/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/static/img/ts-title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/header/login-header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/header/login-header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/login.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/home/home.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1568971432605" expanded="false" signature="2677:2727" ph="&lt;div/&gt;" />
+            <marker date="1568971432605" expanded="false" signature="2737:3148" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/enter/enter.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding>
+            <element signature="e#4004#4757#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contairer/login/enter/enter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="45" column="57" lean-forward="true" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

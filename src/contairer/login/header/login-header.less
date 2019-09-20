@@ -1,0 +1,120 @@
+@import "../../../assets/static/less/mixins";
+
+header {
+  width: 100%;
+  height: 80px;
+  .content {
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: #fff;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    .w1200 {
+      .logo {
+        margin-top: 20px;
+      }
+      .nav-login {
+        .nav {
+          line-height: 80px;
+          a {
+            font-size: 16px;
+            margin-left: 40px;
+            color: @importC;
+            transition: all .5s;
+            position: relative;
+            padding-bottom: 18px;
+            i {
+              width: 100%;
+              height: 3px;
+              background: @mainC;
+              position: absolute;
+              top: 34px;
+              left: 0;
+              opacity: 0;
+              transition: all .2s;
+            }
+            &:hover {
+              color: @mainC;
+            }
+            &.router-link-active {
+              color: @mainC;
+              i {
+                opacity: 1;
+              }
+            }
+          }
+        }
+        .login {
+          height: 40px;
+          margin: 20px 0 0 120px;
+          .btn {
+            width: 80px;
+            text-align: center;
+            line-height: 40px;
+            border: 1px solid @mainC;
+            cursor: pointer;
+            transition: all .2s;
+          }
+          .btn-login {
+            margin-right: -1px;
+            background: @mainC;
+            color: #fff;
+          }
+          .btn-register {
+            color: @mainC;
+          }
+        }
+      }
+    }
+  }
+  .whiteBlcok {
+    width: 100%;
+    height: 80px;
+  }
+  .login-success {
+    padding-top: 2px;
+    .go-survey {
+      width: 90px;
+      background-color: @mainC;
+      height: 30px;
+      .rounded(3px);
+      text-align: center;
+      line-height: 30px;
+      color: #fff;
+      cursor: pointer;
+      margin-left: 20px;
+      margin-top: 4px;
+    }
+    .agent {
+      padding: 2px;
+      background-color: #ffe729;
+      color: #b72025;
+      margin-left: 18px;
+      margin-top: 8px;
+    }
+    .is-renzheng {
+      margin-left: 18px;
+      margin-top: 4px;
+      .icon-renzheng {
+        padding: 2px;
+        margin-top: 4px;
+        color: #fff;
+      }
+      .has-renzheng {
+        background-color: #fc5457;
+
+      }
+      .no-renzheng {
+        background-color: #d1d1d1;
+      }
+    }
+    .name {
+      font-size: 24px;
+      color: @mainC;
+      margin-top: 2px;
+    }
+  }
+}

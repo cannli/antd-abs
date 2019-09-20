@@ -1,0 +1,263 @@
+@import "../../../assets/static/less/mixins";
+.index {
+  width: 100%;
+  min-width: 1200px;
+  .banner {
+    position: relative;
+    height: 800px;
+    .ant-carousel {
+      .slick-slide {
+        height: 800px;
+        display: block;
+
+      }
+    }
+  }
+  .indexBanner1 {
+    background: url("../../../assets/static/img/indexBanner1.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 463px;
+    .banCon {
+      padding-top: 118px;
+      li {
+        width: 33.333333333%;
+        .icon-data {
+          display: block;
+          margin: 0 auto;
+          width: 140px;
+          height: 140px;
+        }
+        .indexhas {
+          background: url("../../../assets/static/img/mod-data-1.png") no-repeat center;
+        }
+        .indexagent {
+          background: url("../../../assets/static/img/mod-data-2.png") no-repeat center;
+        }
+        .indexamount {
+          background: url("../../../assets/static/img/mod-data-3.png") no-repeat center;
+        }
+        div {
+          text-align: center;
+        }
+        .title {
+          margin: 40px 0 10px;
+          color: #ffffff;
+          font-size: 18px;
+        }
+        .userNum, .gameNum, .money {
+          font-size: 14px;
+          color: #ffffff;
+        }
+      }
+    }
+  }
+
+  .indexBanner2 {
+    background: url("../../../assets/static/img/ts-bg.jpg") no-repeat center;
+    background-size: cover;
+    height: 936px;
+    padding-top: 112px;
+    .title {
+      text-align: center;
+      margin-bottom: 66px;
+    }
+    .tese-info {
+      .fl {
+        /*margin: 113px 0 0 62px;*/
+        width: 720px;
+        height: 720px;
+        position: relative;
+        img {
+          display: block;
+          position: absolute;
+          left: 50%;
+          top: 50%;
+        }
+        .items-outer1 {
+          left: 0;
+          top: 0;
+          animation: img1 22s linear infinite alternate;
+          /* Firefox: */
+          -moz-animation: img1 22s linear infinite alternate;
+          /* Safari 和 Chrome: */
+          -webkit-animation: img1 22s linear infinite alternate;
+          /* Opera: */
+          -o-animation: img1 22s linear infinite alternate;
+        }
+        .items-outer2 {
+          margin: -290px 0 0 -290px;
+          animation: img2 22s linear infinite alternate;
+          /* Firefox: */
+          -moz-animation: img2 22s linear infinite alternate;
+          /* Safari 和 Chrome: */
+          -webkit-animation: img2 22s linear infinite alternate;
+          /* Opera: */
+          -o-animation: img2 22s linear infinite alternate;
+        }
+        .items-outer3 {
+          margin: -215px 0 0 -215px;
+          animation: img3 22s linear infinite alternate;
+          /* Firefox: */
+          -moz-animation: img3 22s linear infinite alternate;
+          /* Safari 和 Chrome: */
+          -webkit-animation: img3 22s linear infinite alternate;
+          /* Opera: */
+          -o-animation: img3 22s linear infinite alternate;
+        }
+        .items-inner {
+          margin: -150px 0 0 -150px;
+          animation: img4 22s linear infinite alternate;
+          /* Firefox: */
+          -moz-animation: img4 22s linear infinite alternate;
+          /* Safari 和 Chrome: */
+          -webkit-animation: img4 22s linear infinite alternate;
+          /* Opera: */
+          -o-animation: img4 22s linear infinite alternate;
+        }
+
+        @keyframes img1 {
+          0% {
+            transform: rotate(0deg);
+          }
+          25% {
+            transform: rotate(90deg);
+          }
+          50% {
+            transform: rotate(180deg);
+          }
+          75% {
+            transform: rotate(270deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+        @keyframes img2 {
+          0% {
+            transform: rotate(0deg);
+          }
+          25% {
+            transform: rotate(-90deg);
+          }
+          50% {
+            transform: rotate(-180deg);
+          }
+          75% {
+            transform: rotate(-270deg);
+          }
+          100% {
+            transform: rotate(-360deg);
+          }
+        }
+        @keyframes img3 {
+          0% {
+            transform: rotate(0deg);
+          }
+          25% {
+            transform: rotate(90deg);
+          }
+          50% {
+            transform: rotate(180deg);
+          }
+          75% {
+            transform: rotate(270deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+      }
+      .fr {
+        margin-right: 62px;
+        margin-top: 300px;
+      }
+      .ts-mid {
+        margin-top: 196px;
+        margin-right: 0;
+      }
+    }
+  }
+
+  .indexBanner2plus {
+    height: 490px;
+    width: 100%;
+    background: url("../../../assets/static/img/ts-2.png") no-repeat center;
+    background-size: cover;
+  }
+
+  .indexBanner3 {
+    position: relative;
+    .banBg {
+      width: 100%;
+      height: 768px;
+      overflow: hidden;
+      position: relative;
+      background: url("../../../assets/static/img/bg-tg.png") no-repeat center;
+      background-size: cover;
+      .duoyuan-bg {
+        position: absolute;
+        display: block;
+        left: 50%;
+        margin-left: -960px;
+        top: 0;
+      }
+      .tg-wrapper {
+        width: 1200px;
+        height: 440px;
+        position: absolute;
+        left: 50%;
+        margin-left: -600px;
+        top: 250px;
+      }
+
+    }
+    .icon-tg {
+      position: absolute;
+      z-index: 2;
+      display: block;
+      background-image: url("../../../assets/static/img/indexSprite.png");
+    }
+    .icon-tg1 {
+      height: 200px;
+      width: 200px;
+      background-position: 0 -2398px;
+      left: 10%;
+      top: 150px;
+    }
+    .icon-tg2 {
+      height: 118px;
+      width: 118px;
+      background-position: 0 -85px;
+      left: 34%;
+      top: 0;
+    }
+    .icon-tg3 {
+      height: 85px;
+      width: 85px;
+      background-position: 0 0;
+      left: 48%;
+      top: 200px;
+    }
+    .icon-tg4 {
+      height: 178px;
+      width: 178px;
+      background-position: 0 -1620px;
+      left: 66%;
+      top: 58px;
+    }
+    .icon-tg5 {
+      height: 148px;
+      width: 148px;
+      background-position: 0 -682px;
+      left: 80%;
+      top: 280px;
+    }
+  }
+  footer{
+    background: #000000;
+    padding: 20px;
+    text-align: center;
+    color: #cccccc;
+  }
+}
